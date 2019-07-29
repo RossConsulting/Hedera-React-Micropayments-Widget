@@ -2,7 +2,7 @@
 
 A React component to facilitate Hedera micropayments via the Hedera Chrome extension.
 
-## 💡 What is Hedera Hashgraph?
+## What is Hedera Hashgraph?
 Hedera is a decentralized public network that utiltizes the Hashgraph consensus algorithm to overcome the traditional limitations of blockchain and allow one to create next era of fast, fair, and secure applications. 
 
 ## Usage
