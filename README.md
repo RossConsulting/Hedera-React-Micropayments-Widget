@@ -7,7 +7,7 @@ Hedera is a decentralized public network that utiltizes the Hashgraph consensus 
 
 ## Including the widget in your project
 
-_The project is not currently available as a node module._
+_The project is not currently available as a node module, but will shortly be._
 
 An example usage is included in this repo.
 
